@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "js-advanced": "file:js-advanced-1.0.0.tgz",
     "node-html-parser": "^6.1.1"
   }
 }
